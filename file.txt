@@ -2,3 +2,4 @@ file line 1
 file line 2
 file line 3
 file line 4
+line8
